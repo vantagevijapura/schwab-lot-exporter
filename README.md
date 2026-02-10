@@ -1,4 +1,4 @@
-# Schwab Lot Details Extractor (UI Automation)
+# Schwab Lot Details Extractor
 
 A Python tool that automates extraction of lot-level position data from the Charles Schwab web UI and produces an analytics-ready CSV with holding period and annualized return metrics.
 
